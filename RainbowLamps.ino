@@ -1,4 +1,4 @@
-/*  Project : Cristamas Lights
+/*  Project : Rainbow Lights
  *  Author  : Mukesh Sankhla
  *  IG      : @mukesh.diy
  *  Twitter : @MukeshSankhla0
